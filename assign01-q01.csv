@@ -1,0 +1,30 @@
+student_answer,total_score,teacher_score,percentage,grade
+high risk problems are address in the prototype program to make sure that the program is feasible.  a prototype may also be used to show a company that the software can be possibly programmed.,5,3.5,70,C
+to simulate portions of the desired final product with a quick and easy program that does a small specific job. it is a way to help see what the problem is and how you may solve it in the final project.,5,5,100,A
+a prototype program simulates the behaviors of portions of the desired software product to allow for error checking.,5,4,80,B
+"defined in the specification phase a prototype stimulates the behavior of portions of the desired software product.  meaning, the role of a prototype is a temporary solution until the program itself is refined to be used extensively in problem solving.",5,5,100,A
+it is used to let the users have a first idea of the completed program and allow the clients to evaluate the program. this can generate much feedback including software specifications and project estimations of the total project.,5,3,60,D
+to find problem and errors in a program before it is finalized,5,2,40,F
+"to address major issues in the creation of the program. there is no way to account for all possible bugs in the program, but it is possible to prove the program is tangible. ",5,2.5,50,F
+you can break the whole program into prototype programs to simulate parts of the final program,5,5,100,A
+-to provide an example or model of how the finished program should perfom. -provides forsight of some of the challanges that would be encountered. -provides opportunity to introduce changes to the finished program.,5,3.5,70,C
+simulating the behavior of only a portion of the desired software product.,5,5,100,A
+  a program that stimulates the behavior of portions of the desired software product.,5,5,100,A
+a program that simulates the behavior of portions of the desired software product.,5,5,100,A
+to lay out the basics and give you a starting point in the actual problem solving.,5,2,40,F
+to simulate problem solving for parts of the problem,5,4.5,90,A
+a prototype program provides a basic groundwork from which to further enhance and improve a solution to a problem.,5,2,40,F
+"a prototype program is a part of the specification phase of software problem solvin.  it's employed to illustrate how the key problem or problems will be solved in a program, and sometimes serves as a base program to expand upon.",5,4.5,90,A
+program that simulates the behavior of portions of the desired software product,5,5,100,A
+it provides a limited proof of concept to verify with the client before actually programming the whole application.,5,2,40,F
+it tests the main function of the program while leaving out the finer details.,5,2,40,F
+to get early feedback from users in early stages of development.  to show users a first idea of what the program will do/look like.  to make sure the program will meet requirements before intense programming begins.,5,2.5,50,F
+it simulates the behavior of portions of the desired software product,5,5,100,A
+it simulates the behavior of portions of the desired software product.,5,5,100,A
+a prototype program is used in problem solving to collect data for the problem.,5,1.5,30,F
+to ease the understanding of problem under discussion and to ease the understanding of the program itself,5,2.5,50,F
+it simulates the behavior of portions of the desired software product,5,5,100,A
+the role of a prototype program is to help spot key problems that may arise during the actual programing. ,5,2,40,F
+"the prototype program gives a general idea of what the end product will do, without the time and effort to write out the entire program.",5,3,60,D
+to show that a certain part of the program works as it is supposed to,5,3,60,D
+"prototype programming is an approach to programming that enables one to take an organized approach to developing an effective program with minimal errors and a strategic pattern when solving a problem. i.e. book gave an example of a costumer withdrawing money from a bank, the approach that was taking on a pseudo code level during the ooa/design lvl before proceeding into creating a solution. ",5,2.5,50,F
